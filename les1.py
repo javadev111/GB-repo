@@ -97,3 +97,6 @@ for i in range(n):
             sum += bbb + aaa
     print(sum)
     sum = ''
+
+
+# создаем изменение для ветки master
