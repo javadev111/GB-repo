@@ -52,7 +52,7 @@ if D < 0:
 else:
     x1 = (- koef_b + math.sqrt(D)) / 2 * koef_a
     x2 = (- koef_b - math.sqrt(D)) / 2 * koef_a
-print('x1=', x1, ', x2=', x2)
+    print('x1=', x1, ', x2=', x2)
 
 
 number = int(input('Введите число: '))
